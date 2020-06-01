@@ -7,10 +7,10 @@
     <td>Details Page-2</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/burakylmz50/Movie.App.StableApp/master/Images/Stable%20App-1.png?token=AJSWA2XO7RK6ACJAI2IR44262V3SA"></td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/burakylmz50/Movie.App.StableApp/master/Images/Stable%20App-2.png.png?token=AJSWA2RCBEYKSNVKRKVHBD262V3Z6"></td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/burakylmz50/Movie.App.StableApp/master/Images/Stable%20App-3.png.png?token=AJSWA2Q2TGU4FDYQH2E4JJS62V33I"></td>
-       <td valign="top"><img src="https://raw.githubusercontent.com/burakylmz50/Movie.App.StableApp/master/Images/Stable%20App-4.png.png?token=AJSWA2SEJIMKXX5PXSFC25C62V336"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/burakylmz50/Movie.App.StableApp/master/Images/Stable%20App-1.png?token=AJSWA2UQUD3OPWFWWRCG56262V5PU"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/burakylmz50/Movie.App.StableApp/master/Images/Stable%20App-2.png.png?token=AJSWA2VOP44V4UMDD2AQ3ZC62V5WC"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/burakylmz50/Movie.App.StableApp/master/Images/Stable%20App-3.png.png?token=AJSWA2TFHKRG2ZFO2DSIYVC62V5W4"></td>
+       <td valign="top"><img src="https://raw.githubusercontent.com/burakylmz50/Movie.App.StableApp/master/Images/Stable%20App-4.png.png?token=AJSWA2WNL3Y3AHAPC77SHXS62V5W6"></td>
   </tr>
  </table>
 
